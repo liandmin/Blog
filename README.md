@@ -4,8 +4,8 @@
 
 # 主要文章
 
-[最近的面试题目](https://github.com/liandmin/Blog/issues/1)
+[有赞面试问题](https://github.com/liandmin/Blog/issues/1)
 
 [JavaScript之 bind 的模拟实现](https://github.com/liandmin/Blog/issues/2)
 
-[前端面试总结](https://github.com/liandmin/Blog/issues/3)
+[有赞面试总结](https://github.com/liandmin/Blog/issues/3)
