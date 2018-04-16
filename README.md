@@ -9,3 +9,5 @@
 [JavaScript之 bind 的模拟实现](https://github.com/liandmin/Blog/issues/2)
 
 [有赞面试总结](https://github.com/liandmin/Blog/issues/3)
+
+[最近面试的一些题目](https://github.com/liandmin/Blog/issues/4)
