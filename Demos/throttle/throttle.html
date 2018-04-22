@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    #container {
+      height: 300px;
+      background-color: red;
+      line-height: 300px;
+      text-align: center;
+      font-size: 36px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="container"></div>
+
+  <script src="throttle1.js"></script>
+  <!-- <script src="throttle2.js"></script> -->
+  <script>
+    var count = 1;
+    var container = document.getElementById('container');
+
+    function getUserAction(event) {
+      // console.log(this)
+      // console.log(event)
+      container.innerHTML = count++;
+    };
+
+    container.onmousemove = throttle(getUserAction, 1000);
+  </script>
+</body>
+
+</html>
