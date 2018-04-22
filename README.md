@@ -11,3 +11,6 @@
 [有赞面试总结](https://github.com/liandmin/Blog/issues/3)
 
 [最近面试的一些题目](https://github.com/liandmin/Blog/issues/4)
+
+[函数防抖与节流](https://github.com/liandmin/Blog/issues/5)
+
