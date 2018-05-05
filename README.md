@@ -14,3 +14,4 @@
 
 [函数防抖与节流](https://github.com/liandmin/Blog/issues/5)
 
+[数组去重](https://github.com/liandmin/Blog/issues/6)
