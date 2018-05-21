@@ -15,3 +15,5 @@
 [函数防抖与节流](https://github.com/liandmin/Blog/issues/5)
 
 [数组去重](https://github.com/liandmin/Blog/issues/6)
+
+[JS中的一些技巧](https://github.com/liandmin/Blog/issues/7)
