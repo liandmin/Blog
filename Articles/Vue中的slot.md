@@ -65,6 +65,7 @@ new Vue({
 
 > 注意：在 2.5.0+，slot-scope 不再限制在 <template> 元素上使用，而可以用在插槽内的任何元素或组件上。
 
+
 ```
 <div id="root">
     <child>
