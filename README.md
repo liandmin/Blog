@@ -4,11 +4,11 @@
 
 # 主要文章
 
-[有赞面试问题](https://github.com/liandmin/Blog/issues/1)
+[van面试问题](https://github.com/liandmin/Blog/issues/1)
 
 [JavaScript之 bind 的模拟实现](https://github.com/liandmin/Blog/issues/2)
 
-[有赞面试总结](https://github.com/liandmin/Blog/issues/3)
+[van面试总结](https://github.com/liandmin/Blog/issues/3)
 
 [最近面试的一些题目](https://github.com/liandmin/Blog/issues/4)
 
